@@ -1,5 +1,5 @@
 ---
-title: SB-1.1.1
+title: janmādy asya
 date: 2024-10-21 19:23:00 +0530
 categories: [Srimad Bhagavatam]
 tags: [sb, gayathri]     # TAG names should always be lowercase
