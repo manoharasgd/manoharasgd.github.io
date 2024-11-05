@@ -6,19 +6,19 @@ tags: [sb, vaisnavas]     # TAG names should always be lowercase
 ---
 
 Glories of Srimad Bhagavatam from Padma Purana
-- padau yadiyau prathama dvitiyau 
+```padau yadiyau prathama dvitiyau 
   tritiya turyau kathitau yad uru 
   nabhis tatha pancama eva sasto 
   bhujantaram dor yugalam tathanyau
   kanthas tu rajan navamo yadiyo mukharavindam
   dasamam praphullam ekadasau yasya lalatha pattam
-  siro pi tu dvadasa eva bati
+  siro pi tu dvadasa eva bati```
   The First and Second Cantos of the Bhagavatam are Sri Krsna’s lotus feet. The Third and Fourth Cantos are His thighs. The Fifth Canto is His navel. The Sixth Canto is His chest. The Seventh and Eighth Cantos are His arms. The Ninth Canto is His throat. The Tenth Canto is His beautiful lotus-face. The Eleventh Canto is His forehead. The Twelfth Canto is His head.
 
-- tam adi devam karuna nidhanam 
+```tam adi devam karuna nidhanam 
   tamala varnam suhitavataram 
   apara samsara samudra setum 
-  bhajamehe bhagavata svarupam 
+  bhajamehe bhagavata svarupam```
   I bow down to that Lord, the ocean of mercy whose colour is like that of a tamala tree and who appears in this world for the welfare of all. I worship Him as the bridge for crossing the unfathomable ocean of material existence. The Bhagavatam has appeared as His very Self.
 
 - SB 12.13.18
