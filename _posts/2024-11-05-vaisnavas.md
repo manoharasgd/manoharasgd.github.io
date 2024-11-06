@@ -56,3 +56,12 @@ Glories of Srimad Bhagavatam from Padma Purana
   6. Maitreya Muni's humility
     - SB 3.6.36, In spite of my inability, whatever I have been able to hear [from the spiritual master] and whatever I could assimilate I am now describing in glorification of the Lord by pure speech, for otherwise my power of speaking would remain unchaste.
 
+  7. Vidura's address to Maitreya Muni, SB 3.5.3
+    - janasya kṛṣṇād vimukhasya daivād
+      adharma-śīlasya suduḥkhitasya
+      anugrahāyeha caranti nūnaṁ
+      bhūtāni bhavyāni janārdanasya
+
+  8. Sri Sad-Goswamyastakam, 'lokānāḿ hita-kāriṇau tri-bhuvane mānyau śaraṇyākarau'
+    - who are very expert in scrutinizingly studying all the revealed scriptures with the aim of establishing eternal religious principles for the benefit of all human beings.
+
